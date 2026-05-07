@@ -11,7 +11,7 @@
 | Field | Details |
 |-------|---------|
 | **Student** | Prachi Pandey |
-| **UID** | 3.O24MCA111550 |
+| **UID** | O24MCA111550 |
 | **Programme** | MCA — Data Analysis |
 | **Mentor** | Mr. Anurag Goel |
 | **University** | Chandigarh University Online |
